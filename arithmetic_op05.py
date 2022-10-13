@@ -5,7 +5,6 @@
 # Create a variable called "answer".
 
 # Find the division of a and b then assign to "answer".
-from traceback import print_tb
 
 
 a=72
